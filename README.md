@@ -1,8 +1,6 @@
 # Информационно-программный комплекс для директора магазина одежды
 Этот репозиторий содержит исходный код со всеми необходимыми компонентами для полноценной работы ИПК.
 
-[![Вконтакте](https://img.shields.io/badge/ВКонтакте-0077B5?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nastasiavoron)  
-
 [![Powered by PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f6791?logoColor=white&style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org)
 [![Qt5](https://img.shields.io/badge/Qt-%2366595C.svg?style=for-the-badge&logo=qt&logoColor=green)](https://www.qt.io/home) 
 ## Описание
